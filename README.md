@@ -1,5 +1,8 @@
-# Kevin Castañeda
-### Aeronautical Engineer | Software Development | Aviation Technology
+<p align="center">
+  <img src="./assets/a350-banner.png" alt="Kevin Castañeda - Aeronautical Engineering and Software Development - Airbus A350" width="100%">
+</p>
+
+
 
 ---
 
