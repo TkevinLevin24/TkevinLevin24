@@ -26,12 +26,19 @@ Currently, I'm strengthening my C++ skills, with a focus on software performance
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Aerospace Engineering
+
+### Aerospace Engineering & Engineering Tools
+
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-D9272E?style=for-the-badge&logoColor=white)
 
 - Aircraft Systems & Maintenance
 - Unmanned Aircraft Systems (UAS)
 - Computer-Aided Design (CAD)
 - Structural Analysis & Engineering
+- Data Visualization & Engineering Analysis
+
 
 ### Currently Learning
 
