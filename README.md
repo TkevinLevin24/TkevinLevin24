@@ -6,7 +6,13 @@
 
 ---
 
-## About Me
+
+<h2>About Me</h2>
+
+<img src="./assets/aircraft-trail.gif"
+     alt="Animated aircraft flight trail"
+     width="100%">
+
 
 I'm an Aeronautical Engineer with a background in aircraft maintenance, aerospace engineering, unmanned aircraft systems (UAS), and engineering software projects.
 
