@@ -14,15 +14,32 @@ I enjoy developing technology-driven solutions that connect aviation, engineerin
 
 Currently, I'm strengthening my C++ skills, with a focus on software performance, debugging, algorithms, and efficient programming practices.
 
+
 ## Technical Skills
 
-**Programming:** C++, Python, JavaScript, Node.js, SQL
+### Programming & Development
 
-**Engineering:** Aerospace Engineering, UAS, CAD, Structural Analysis
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Development:** Object-Oriented Programming, Git, Debugging, Data Processing
+### Aerospace Engineering
 
-**Current Learning:** Modern C++, Performance Optimization, Profiling
+- Aircraft Systems & Maintenance
+- Unmanned Aircraft Systems (UAS)
+- Computer-Aided Design (CAD)
+- Structural Analysis & Engineering
+
+### Currently Learning
+
+- Modern C++ and Memory Management
+- Software Performance Optimization
+- Debugging and Profiling
+- Algorithms and Data Structures
+
 
 ## Featured Aviation Projects
 
@@ -30,11 +47,6 @@ Currently, I'm strengthening my C++ skills, with a focus on software performance
 - [Colombia FIR Map](https://github.com/TkevinLevin24/Mapa-de-FIRs-Colombia) — Geographic visualization of Flight Information Regions.
 - [Colombian Airports Map](https://github.com/TkevinLevin24/MapaColombiaAeropuertos.github.io) — Interactive aerodrome mapping project.
 
-## Current Project
-
-**Python vs. C++ — Airline Offer Performance Benchmark**
-
-Developing a benchmarking project to compare execution time and performance between Python and C++ implementations of airline-related data processing algorithms.
 
 ## Connect
 
