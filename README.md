@@ -9,7 +9,7 @@
 
 <h2>About Me</h2>
 
-<img src="./assets/aircraft-trail.gif"
+<img src="./assets/aircraft-trail.gif.gif"
      alt="Animated aircraft flight trail"
      width="100%">
 
